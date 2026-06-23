@@ -97,7 +97,7 @@ The repository is organized as follows:
 
 1.  **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/project-de-fmcg-atlikon.git
+   https://github.com/adii0122/adii-FMCG-Market-Analytics.git
     ```
 
 2.  **Import to Databricks**:
