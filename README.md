@@ -131,3 +131,13 @@ The repository is organized as follows:
 *   **Incremental Loading**: Handles incremental data updates for Fact tables.
 *   **Data Quality**: Implements basic data cleaning and validation steps.
 *   **Analytics Ready**: Produces a `vw_fact_orders_enriched` view optimized for BI tools.
+
+## Author
+
+Ansh Verma
+
+Data Engineer & Analyst | postgreSQL | Power BI | Python | DevOps Enthusiast | AWS cloud services 
+
+LinkedIn: [https://www.linkedin.com/in/ansh-verma-4ba03a34b/]
+
+GitHub: [(https://github.com/adii0122)]
